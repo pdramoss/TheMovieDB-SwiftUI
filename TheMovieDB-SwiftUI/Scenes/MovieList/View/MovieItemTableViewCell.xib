@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" rowHeight="175" id="KGk-i7-Jjw" customClass="MovieItemTableViewCell" customModule="TheMovieDB_UIKit" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="175"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="174.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Rdn-Va-k4k" userLabel="poster">
+                        <rect key="frame" x="5" y="5" width="110" height="164.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="110" id="Ei4-kY-ObU"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wY0-cJ-2uf" userLabel="title">
+                        <rect key="frame" x="120" y="5" width="195" height="90"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="90" id="NzN-Ub-Vil"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                        <color key="textColor" name="secondaryVariant"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XwL-92-Y13">
+                        <rect key="frame" x="120" y="105" width="195" height="64.5"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="startAverage" translatesAutoresizingMaskIntoConstraints="NO" id="5el-sU-hq1">
+                                <rect key="frame" x="10" y="5" width="55" height="55"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="5el-sU-hq1" secondAttribute="height" multiplier="1:1" id="BX5-35-G9O"/>
+                                    <constraint firstAttribute="width" constant="55" id="fsp-1W-ncw"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a5T-ao-bFg" userLabel="Average">
+                                <rect key="frame" x="75" y="5" width="110" height="55"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="55" id="wo7-er-OcB"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                                <color key="textColor" name="secondaryVariant"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="a5T-ao-bFg" firstAttribute="centerY" secondItem="5el-sU-hq1" secondAttribute="centerY" id="05h-rz-C2u"/>
+                            <constraint firstItem="5el-sU-hq1" firstAttribute="leading" secondItem="XwL-92-Y13" secondAttribute="leading" constant="10" id="0L2-sb-VoS"/>
+                            <constraint firstItem="5el-sU-hq1" firstAttribute="centerY" secondItem="XwL-92-Y13" secondAttribute="centerY" id="87h-kG-ial"/>
+                            <constraint firstAttribute="trailing" secondItem="a5T-ao-bFg" secondAttribute="trailing" constant="10" id="HTM-lf-bRJ"/>
+                            <constraint firstItem="a5T-ao-bFg" firstAttribute="leading" secondItem="5el-sU-hq1" secondAttribute="trailing" constant="10" id="TJU-q1-ofS"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" name="primary"/>
+                <constraints>
+                    <constraint firstItem="wY0-cJ-2uf" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="3kO-dI-mxY"/>
+                    <constraint firstItem="XwL-92-Y13" firstAttribute="top" secondItem="wY0-cJ-2uf" secondAttribute="bottom" constant="10" id="5xT-xG-zBO"/>
+                    <constraint firstItem="Rdn-Va-k4k" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="5" id="6gP-Uv-cXU"/>
+                    <constraint firstItem="XwL-92-Y13" firstAttribute="leading" secondItem="Rdn-Va-k4k" secondAttribute="trailing" constant="5" id="8Y1-jD-bWh"/>
+                    <constraint firstItem="wY0-cJ-2uf" firstAttribute="leading" secondItem="Rdn-Va-k4k" secondAttribute="trailing" constant="5" id="Hod-mX-rN1"/>
+                    <constraint firstAttribute="bottom" secondItem="XwL-92-Y13" secondAttribute="bottom" constant="5" id="R66-8F-QxC"/>
+                    <constraint firstItem="Rdn-Va-k4k" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="Sxq-BM-PLf"/>
+                    <constraint firstAttribute="trailing" secondItem="XwL-92-Y13" secondAttribute="trailing" constant="5" id="eTw-v0-8Ha"/>
+                    <constraint firstAttribute="bottom" secondItem="Rdn-Va-k4k" secondAttribute="bottom" constant="5" id="wdI-RV-OBF"/>
+                    <constraint firstAttribute="trailing" secondItem="wY0-cJ-2uf" secondAttribute="trailing" constant="5" id="xim-GY-Dn2"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="averageLabel" destination="a5T-ao-bFg" id="xwD-A2-xL3"/>
+                <outlet property="posterImage" destination="Rdn-Va-k4k" id="K31-Pb-aJB"/>
+                <outlet property="titleLabel" destination="wY0-cJ-2uf" id="xrt-fp-CfB"/>
+            </connections>
+            <point key="canvasLocation" x="34.782608695652179" y="61.941964285714285"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="startAverage" width="100" height="100"/>
+        <namedColor name="primary">
+            <color red="0.43137254901960786" green="0.44705882352941179" blue="0.30980392156862746" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="secondaryVariant">
+            <color red="0.28627450980392155" green="0.35686274509803922" blue="0.44705882352941179" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
