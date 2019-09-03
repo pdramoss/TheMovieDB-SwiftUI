@@ -8,6 +8,7 @@
 
 import Foundation
 import CoreLocation
+import SwiftUI
 
 struct MovieList: Hashable, Codable {
     var page: Int

@@ -1,0 +1,415 @@
+{
+    "page": 1,
+    "total_results": 829,
+    "total_pages": 42,
+    "results": [
+        {
+            "popularity": 180.798,
+            "vote_count": 2147,
+            "video": false,
+            "poster_path": "/3A8ca8WOBacCRujSKJ2tCVKsieQ.jpg",
+            "id": 420818,
+            "adult": false,
+            "backdrop_path": "/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg",
+            "original_language": "en",
+            "original_title": "The Lion King",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                18,
+                10751
+            ],
+            "title": "El Rey León",
+            "vote_average": 7.2,
+            "overview": "Un remake del clásico animado de Disney de 1994 'El rey león' que estará dirigido por Jon Favreu. Simba (Donald Glover) es el hijo del rey de los leones, Mufasa, y heredero de todo el reino. Pero cuando su padre es brutalmente asesinado por su tío Scar, decidirá huir, dejando vía libre para que su tío tome el puesto de su padre como líder pelisonline.co de la manada. En su camino, Simba se encuentra con el suricato pelisonline.co Timón y el jabalí Pumba, que le enseñarán a vivir la vida sin preocupaciones. Pero el joven león se verá obligado a decidir entre su vida libre de problemas o su destino como rey .",
+            "release_date": "2019-07-18"
+        },
+        {
+            "popularity": 134.733,
+            "vote_count": 7968,
+            "video": false,
+            "poster_path": "/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg",
+            "id": 920,
+            "adult": false,
+            "backdrop_path": "/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg",
+            "original_language": "en",
+            "original_title": "Cars",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "title": "Cars",
+            "vote_average": 6.7,
+            "overview": "El aspirante a campeón de carreras Rayo McQueen está sobre la vía rápida al éxito, la fama y todo lo que él había soñado, hasta que por error toma un desvío inesperado en la polvorienta y solitaria Ruta 66. Su actitud arrogante se desvanece cuando llega a una pequeña comunidad olvidada que le enseña las cosas importantes de la vida que había olvidado.",
+            "release_date": "2006-07-06"
+        },
+        {
+            "popularity": 104.628,
+            "vote_count": 9067,
+            "video": false,
+            "poster_path": "/br6krBFpaYmCSglLBWRuhui7tPc.jpg",
+            "id": 299534,
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Vengadores: Endgame",
+            "vote_average": 8.3,
+            "overview": "Después de los eventos devastadores de 'Vengadores: Infinity War', el universo está en ruinas debido a las acciones de Thanos. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles sean las consecuencias... Cuarta y última entrega de la saga \"Vengadores\".",
+            "release_date": "2019-04-25"
+        },
+        {
+            "popularity": 54.988,
+            "vote_count": 2229,
+            "video": false,
+            "poster_path": "/zee67lkRkYekjZGEnP3HV4vxOs4.jpg",
+            "id": 447404,
+            "adult": false,
+            "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+            "original_language": "en",
+            "original_title": "Pokémon Detective Pikachu",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "title": "Pokémon Detective Pikachu",
+            "vote_average": 7,
+            "overview": "Ryme City, una metrópoli futurista en la que los humanos y los Pokémon conviven en armonía. Tras la misteriosa desaparición de su padre, toda una leyenda en la ciudad, el joven Tim Goodman (Justice Smith) comienza una investigación para buscarle y averiguar lo que le ha sucedido. En esta misión le ayudará el adorable súper-detective Pikachu, un inteligente Pokémon que habla, aunque curiosamente el chico es el único que puede entenderle. Ambos unirán sus fuerzas y trabajarán juntos para resolver este gran misterio, con la ayuda de Lucy (Kathryn Newton), una reportera que trabaja en su primera gran historia. Será una aventura en la que descubrirán a entrañables personajes del universo Pokémon, además de una trama espeluznante que podría amenazar la convivencia pacífica de todo este universo.",
+            "release_date": "2019-05-10"
+        },
+        {
+            "popularity": 52.798,
+            "vote_count": 20399,
+            "video": false,
+            "poster_path": "/tyKKKSvjEgDVQ6vtm8vzL5Zx06c.jpg",
+            "id": 24428,
+            "adult": false,
+            "backdrop_path": "/hbn46fQaRmlpBuUrEiFqv0GDL6Y.jpg",
+            "original_language": "en",
+            "original_title": "The Avengers",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Los Vengadores",
+            "vote_average": 7.6,
+            "overview": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+            "release_date": "2012-04-27"
+        },
+        {
+            "popularity": 45.414,
+            "vote_count": 6342,
+            "video": false,
+            "poster_path": "/tAAikrL3kH3TopsDC2Bgo4ARUiP.jpg",
+            "id": 324552,
+            "adult": false,
+            "backdrop_path": "/dQ6s3Ud2KoOs3LKw6xgZr1cw7Yq.jpg",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 2",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "title": "John Wick: Pacto de sangre",
+            "vote_average": 7,
+            "overview": "El legendario asesino John Wick (Keanu Reeves) se ve obligado a salir del retiro por un ex-asociado que planea obtener el control de un misterioso grupo internacional de asesinos. Obligado a ayudarlo por un juramento de sangre, John emprende un viaje a Roma lleno de adrenalina estremecedora para pelear contra los asesinos más peligrosos del mundo.",
+            "release_date": "2017-04-21"
+        },
+        {
+            "popularity": 46.3,
+            "vote_count": 19336,
+            "video": false,
+            "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "id": 157336,
+            "adult": false,
+            "backdrop_path": "/xu9zaAevzQ5nnrsXN6JcahLnG4i.jpg",
+            "original_language": "en",
+            "original_title": "Interstellar",
+            "genre_ids": [
+                12,
+                18,
+                878
+            ],
+            "title": "Interstellar",
+            "vote_average": 8.2,
+            "overview": "Narra las aventuras de un grupo de exploradores que hacen uso de un agujero de gusano recientemente descubierto para superar las limitaciones de los viajes espaciales tripulados y vencer las inmensas distancias que tiene un viaje interestelar.",
+            "release_date": "2014-11-07"
+        },
+        {
+            "popularity": 26.773,
+            "vote_count": 3871,
+            "video": false,
+            "poster_path": "/spgPmu5bTk8N6KZXrIOBwfd3cNb.jpg",
+            "id": 106,
+            "adult": false,
+            "backdrop_path": "/eMBPHubjEyYx0XdTja5kNn8aOaJ.jpg",
+            "original_language": "en",
+            "original_title": "Predator",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "title": "Depredador",
+            "vote_average": 7.4,
+            "overview": "Un comando de mercenarios es contratados por la CIA para rescatar a unos pilotos apresados por las guerrillas en la selva Centroamericana. La misión resulta satisfactoria, pero durante su viaje de regreso se dan cuenta de que algo está dándoles caza uno a uno, ese algo resulta ser un cazador alienígena que se queda con las calaveras de sus víctimas como trofeos",
+            "release_date": "1987-08-20"
+        },
+        {
+            "popularity": 42.488,
+            "vote_count": 14534,
+            "video": false,
+            "poster_path": "/yOTQT0xPXr4pOBxKp0rBSYkMzw6.jpg",
+            "id": 671,
+            "adult": false,
+            "backdrop_path": "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+            "original_language": "en",
+            "original_title": "Harry Potter and the Philosopher's Stone",
+            "genre_ids": [
+                12,
+                14,
+                10751
+            ],
+            "title": "Harry Potter y la piedra filosofal",
+            "vote_average": 7.8,
+            "overview": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+            "release_date": "2001-11-30"
+        },
+        {
+            "popularity": 31.975,
+            "vote_count": 8302,
+            "video": false,
+            "poster_path": "/gkcT1QmvspJ34rKgFUvv0ho0VrD.jpg",
+            "id": 607,
+            "adult": false,
+            "backdrop_path": "/agCihVGrXk3hmmwMIgsn2ao1eEa.jpg",
+            "original_language": "en",
+            "original_title": "Men in Black",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                878
+            ],
+            "title": "Hombres de negro",
+            "vote_average": 7.1,
+            "overview": "Durante muchos años los extraterrestres han vivido en la Tierra, mezclados con los humanos, sin que nadie lo supiese. Los Hombres de Negro son unos agentes, pertenecientes a una asociación altamente secreta del gobierno, encargados de controlar a los alienígenas. Ahora dos de estos agentes, uno veterano y otro recién incorporado, y que tienen como misión vigilar a los alienígenas que habitan en la ciudad de Nueva York, descubren a un terrorista galáctico que pretende acabar con la humanidad.",
+            "release_date": "1997-07-11"
+        },
+        {
+            "popularity": 45.871,
+            "vote_count": 11866,
+            "video": false,
+            "poster_path": "/4hOUzmButYUeON0prG3RpbqS7ag.jpg",
+            "id": 11,
+            "adult": false,
+            "backdrop_path": "/4iJfYYoQzZcONB9hNzg0J0wWyPH.jpg",
+            "original_language": "en",
+            "original_title": "Star Wars",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "La guerra de las galaxias. Episodio IV: Una nueva esperanza",
+            "vote_average": 8.2,
+            "overview": "La princesa Leia, líder del movimiento rebelde que desea reinstaurar la República en la galaxia en los tiempos ominosos del Imperio, es capturada por las malévolas Fuerzas Imperiales, capitaneadas por el implacable Darth Vader, el sirviente más fiel del emperador. El intrépido Luke Skywalker, ayudado por Han Solo, capitán de la nave espacial \"El Halcón Milenario\", y los androides, R2D2 y C3PO, serán los encargados de luchar contra el enemigo y rescatar a la princesa para volver a instaurar la justicia en el seno de la Galaxia.",
+            "release_date": "1977-11-07"
+        },
+        {
+            "popularity": 39.772,
+            "vote_count": 10886,
+            "video": false,
+            "poster_path": "/Akq3SczzAdsQ9ec2IjZi6JLGw0H.jpg",
+            "id": 210577,
+            "adult": false,
+            "backdrop_path": "/8ZNGBfGoN3uI5Akj5vEUDMxvmGO.jpg",
+            "original_language": "en",
+            "original_title": "Gone Girl",
+            "genre_ids": [
+                18,
+                9648,
+                53
+            ],
+            "title": "Perdida",
+            "vote_average": 7.9,
+            "overview": "El día de su quinto aniversario de boda, Nick Dunne informa que su esposa Amy ha desaparecido misteriosamente. Pero pronto la presión policial y mediática hace que el retrato de felicidad doméstica que ofrece Nick empiece a tambalearse. Además, su extraña conducta lo convierte en sospechoso, y todo el mundo comienza a preguntase si Nick mató a su esposa... Adaptación del best-seller \"Perdida\", de Gillian Flynn.",
+            "release_date": "2014-10-23"
+        },
+        {
+            "popularity": 38.433,
+            "vote_count": 6981,
+            "video": false,
+            "poster_path": "/uHEAuTMJItOxjA0a2pOqX2almaR.jpg",
+            "id": 335984,
+            "adult": false,
+            "backdrop_path": "/sAtoMqDVhNDQBc3QJL3RF6hlhGq.jpg",
+            "original_language": "en",
+            "original_title": "Blade Runner 2049",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "title": "Blade Runner 2049",
+            "vote_average": 7.4,
+            "overview": "Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El oficial K, un blade runner caza-replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard, un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+            "release_date": "2017-10-06"
+        },
+        {
+            "popularity": 39.768,
+            "vote_count": 13108,
+            "video": false,
+            "poster_path": "/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg",
+            "id": 283995,
+            "adult": false,
+            "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 2",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                878
+            ],
+            "title": "Guardianes de la galaxia Vol. 2",
+            "vote_average": 7.7,
+            "overview": "Continúan las aventuras del equipo en su travesía por los confines del cosmos. Los Guardianes deberán luchar para mantener unida a su nueva familia mientras intentan resolver el misterio de los verdaderos orígenes de Peter Quill. Viejos rivales se convertirán en nuevos aliados, y queridos personajes de los cómics clásicos acudirán en ayuda de nuestros héroes a medida que el Universo Cinematográfico de Marvel continúa expandiéndose.",
+            "release_date": "2017-04-28"
+        },
+        {
+            "popularity": 30.471,
+            "vote_count": 10970,
+            "video": false,
+            "poster_path": "/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg",
+            "id": 198663,
+            "adult": false,
+            "backdrop_path": "/lkOZcsXcOLZYeJ2YxJd3vSldvU4.jpg",
+            "original_language": "en",
+            "original_title": "The Maze Runner",
+            "genre_ids": [
+                28,
+                9648,
+                878,
+                53
+            ],
+            "title": "El corredor del laberinto",
+            "vote_average": 7.1,
+            "overview": "Thomas abre los ojos y se da cuenta que está en un ascensor. Lo extraño es que no recuerda nada, ni dónde está, ni quién es. Lo único que aún permanece intacto en su memoria es su nombre, y ya es mucho. Antes de que le dé tiempo a cuestionarse algo sobre sí mismo las puertas se abrirán y aparecerá ante él un extraño mundo. Todo lo que ve son chicos de su edad que tienen su mismo estado de amnesia. Una aventura fantástica que pronto destapará la dura realidad bajo ese velo de incertidumbre: todos ellos están atrapados en un laberinto. Si quieren tener alguna posibilidad de salir de allí y recuperar su antigua vida y aquello que no son capaces de recordar deberán unir fuerzas para escapar. Un mundo post-apocalíptico que les acorralará e irá un paso por delante será el desafío que tengan que pasar estos jóvenes por la libertad.",
+            "release_date": "2014-09-26"
+        },
+        {
+            "popularity": 39.174,
+            "vote_count": 5448,
+            "video": false,
+            "poster_path": "/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg",
+            "id": 87101,
+            "adult": false,
+            "backdrop_path": "/bIlYH4l2AyYvEysmS2AOfjO7Dn8.jpg",
+            "original_language": "en",
+            "original_title": "Terminator Genisys",
+            "genre_ids": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "title": "Terminator Génesis",
+            "vote_average": 5.9,
+            "overview": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
+            "release_date": "2015-07-10"
+        },
+        {
+            "popularity": 38.474,
+            "vote_count": 14987,
+            "video": false,
+            "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+            "id": 603,
+            "adult": false,
+            "backdrop_path": "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+            "original_language": "en",
+            "original_title": "The Matrix",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "title": "Matrix",
+            "vote_average": 8.1,
+            "overview": "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la pregunta que no le deja dormir: ¿qué es Matrix?",
+            "release_date": "1999-06-25"
+        },
+        {
+            "popularity": 45.368,
+            "vote_count": 22975,
+            "video": false,
+            "poster_path": "/tXQvtRWfkUUnWJAn2tN3jERIUG.jpg",
+            "id": 27205,
+            "adult": false,
+            "backdrop_path": "/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+            "original_language": "en",
+            "original_title": "Inception",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Origen",
+            "vote_average": 8.3,
+            "overview": "Dom Cobb es un ladrón hábil, el mejor de todos, especializado en el peligroso arte de extracción: el robo de secretos valiosos desde las profundidades del subconsciente durante el estado de sueño cuando la mente está más vulnerable. Esta habilidad excepcional de Cobb le ha hecho un jugador codiciado en el traicionero nuevo mundo de espionaje corporativo, pero al mismo tiempo, le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo que le importaba. Ahora a Cobb se le ofrece una oportunidad para redimirse. Con un último trabajo podría recuperar su vida anterior, pero solamente si logra lo imposible.",
+            "release_date": "2010-08-06"
+        },
+        {
+            "popularity": 38.2,
+            "vote_count": 6334,
+            "video": false,
+            "poster_path": "/jAdNHXbswMuIhcRInIzphZvJElA.jpg",
+            "id": 332562,
+            "adult": false,
+            "backdrop_path": "/wqtaHWOEZ3rXDJ8c6ZZShulbo18.jpg",
+            "original_language": "en",
+            "original_title": "A Star Is Born",
+            "genre_ids": [
+                18,
+                10402,
+                10749
+            ],
+            "title": "Ha nacido una estrella",
+            "vote_average": 7.5,
+            "overview": "Jackson Maine (Bradley Cooper) es una estrella consagrada de la música que una noche conoce y se enamora de Ally (Lady Gaga), una joven artista que lucha por salir adelante en el mundo del espectáculo. Justo cuando Ally está a punto de abandonar su sueño de convertirse en cantante, Jack decide ayudarla en su carrera hacia la fama. Pero el camino será más duro de lo que imagina.",
+            "release_date": "2018-10-04"
+        },
+        {
+            "popularity": 33.64,
+            "id": 177572,
+            "video": false,
+            "vote_count": 10490,
+            "vote_average": 7.8,
+            "title": "Big Hero 6",
+            "release_date": "2014-12-18",
+            "original_language": "en",
+            "original_title": "Big Hero 6",
+            "genre_ids": [
+                12,
+                10751,
+                16,
+                28,
+                35
+            ],
+            "backdrop_path": "/wXBCE6sS94zb8IlnQ51OPApgfhC.jpg",
+            "adult": false,
+            "overview": "En la metrópolis de San Fransokyo (cruce de San Francisco y Tokio), vive Hiro Hamada, quien aprende a sacar provecho de su capacidad gracias a su brillante hermano Tadashi y sus también brillantes amigos: la buscadora de adrenalina GoGo Tamago, el meticuloso de la limpieza Wasabi-No-Ginger, la genia de la química Honey Lemon y el fanático de los cómics Fred. Cuando tras un devastador giro de los acontecimientos, se ven envueltos en una peligrosa conspiración que tiene lugar en las calles de San Fransokyo, Hiro recurre a su amigo más íntimo: un robot llamado Baymax, y transforma al grupo en una banda de héroes de última tecnología decididos a resolver el misterio. Adaptación animada del cómic de Marvel.",
+            "poster_path": "/6bhGltupo6QRqTUzU1ZgfySV4pZ.jpg"
+        }
+    ]
+}

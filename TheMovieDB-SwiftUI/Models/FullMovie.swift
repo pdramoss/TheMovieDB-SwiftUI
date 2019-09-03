@@ -8,8 +8,9 @@
 
 import Foundation
 import CoreLocation
+import SwiftUI
 
-struct FullMovie: Hashable, Codable {
+struct FullMovie: Hashable, Codable, Identifiable {
     
     var id: Int
     var adult: Bool

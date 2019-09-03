@@ -8,8 +8,9 @@
 
 import Foundation
 import CoreLocation
+import SwiftUI
 
-struct PreviewMovie: Hashable, Codable {
+struct PreviewMovie: Hashable, Codable, Identifiable {
     
     var id: Int
     var poster_path: String?
