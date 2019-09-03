@@ -22,7 +22,7 @@ extension Color {
         return Color("secondary")
     }
     
-    static var secondaryVariant: Color? {
+    static var secondaryVariant: Color {
         return Color("secondaryVariant")
     }
 }

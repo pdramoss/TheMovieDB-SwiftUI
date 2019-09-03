@@ -31,6 +31,8 @@
 		E5425890231CE044008CFD75 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = E542588C231CE043008CFD75 /* Data.swift */; };
 		E5425891231CE044008CFD75 /* popular.json in Resources */ = {isa = PBXBuildFile; fileRef = E542588E231CE043008CFD75 /* popular.json */; };
 		E5425892231CE044008CFD75 /* movie.json in Resources */ = {isa = PBXBuildFile; fileRef = E542588F231CE043008CFD75 /* movie.json */; };
+		E5425896231E03CF008CFD75 /* MovieRowSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5425895231E03CF008CFD75 /* MovieRowSwiftUIView.swift */; };
+		E5425898231E0AB0008CFD75 /* MovieDetailSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5425897231E0AB0008CFD75 /* MovieDetailSwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +72,8 @@
 		E542588C231CE043008CFD75 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		E542588E231CE043008CFD75 /* popular.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = popular.json; sourceTree = "<group>"; };
 		E542588F231CE043008CFD75 /* movie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = movie.json; sourceTree = "<group>"; };
+		E5425895231E03CF008CFD75 /* MovieRowSwiftUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieRowSwiftUIView.swift; sourceTree = "<group>"; };
+		E5425897231E0AB0008CFD75 /* MovieDetailSwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailSwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +216,7 @@
 		E542586B231CD4B2008CFD75 /* MovieDetail */ = {
 			isa = PBXGroup;
 			children = (
+				E5425897231E0AB0008CFD75 /* MovieDetailSwiftUIView.swift */,
 			);
 			path = MovieDetail;
 			sourceTree = "<group>";
@@ -219,6 +224,7 @@
 		E5425870231CD4B2008CFD75 /* MovieList */ = {
 			isa = PBXGroup;
 			children = (
+				E5425895231E03CF008CFD75 /* MovieRowSwiftUIView.swift */,
 				E5425889231CD600008CFD75 /* MovieListSwiftUIView.swift */,
 			);
 			path = MovieList;
@@ -367,11 +373,13 @@
 				E5425867231CD4A1008CFD75 /* GetMovieUseCase.swift in Sources */,
 				E5425868231CD4A1008CFD75 /* Router.swift in Sources */,
 				E5425886231CD4D4008CFD75 /* FullMovie.swift in Sources */,
+				E5425896231E03CF008CFD75 /* MovieRowSwiftUIView.swift in Sources */,
 				E5425856231CD492008CFD75 /* Extension-Color.swift in Sources */,
 				E5425890231CE044008CFD75 /* Data.swift in Sources */,
 				E5425863231CD4A1008CFD75 /* NetworkManager.swift in Sources */,
 				E5425869231CD4A1008CFD75 /* EndPointType.swift in Sources */,
 				E542582F231CD190008CFD75 /* SceneDelegate.swift in Sources */,
+				E5425898231E0AB0008CFD75 /* MovieDetailSwiftUIView.swift in Sources */,
 				E5425866231CD4A1008CFD75 /* GetImageUseCase.swift in Sources */,
 				E5425888231CD4D4008CFD75 /* MovieList.swift in Sources */,
 				E5425887231CD4D4008CFD75 /* PreviewMovie.swift in Sources */,

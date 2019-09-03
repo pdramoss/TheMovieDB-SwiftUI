@@ -39,7 +39,7 @@ protocol NetworkManagerProtocol {
     
     func getMovie(id: Int, completion: @escaping (GetMovieCompletion))
     func getPopularMovies(page: Int, with completion: @escaping (GetPopularCompletion))
-    func getImage(path: String, completion: @escaping (GetImageCompletion))
+    func getImage(path: String, with completion: @escaping (GetImageCompletion))
 }
 
 struct NetworkManager: NetworkManagerProtocol {

@@ -22,31 +22,31 @@ protocol NetworkRouter: class {
 class Router<EndPoint: EndPointType>: NetworkRouter {
     func request(_ route: EndPoint, completion: @escaping NetworkRouterCompletion) {
         let fullURL = route.baseURL.appendingPathComponent(route.path)
-        DispatchQueue.main.async {
-            Alamofire.request(fullURL, method: route.httpMethod ,parameters: route.parameters, headers: route.headers).responseData { response in
-                switch response.result {
-                case .success(let data):
-                    completion(data, response.response, nil)
-                    break
-                case .failure(let error):
-                    completion(nil, nil, error)
-                    break
-                }
+        
+        Alamofire.request(fullURL, method: route.httpMethod ,parameters: route.parameters, headers: route.headers).responseData { response in
+            switch response.result {
+            case .success(let data):
+                completion(data, response.response, nil)
+                break
+            case .failure(let error):
+                completion(nil, nil, error)
+                break
             }
         }
+        
     }
     
     func requestImage(_ route: EndPoint, completion: @escaping NetworkRouterImageCompletion) {
         let fullURL =  route.baseImageURL.appendingPathComponent(route.path)
-        DispatchQueue.main.async {
-            Alamofire.request(fullURL).responseImage { response in
-                switch response.result{
-                case .success(let image):
-                    completion(image, nil)
-                case .failure(let error):
-                    completion(nil, error)
-                }
+        
+        Alamofire.request(fullURL).responseImage { response in
+            switch response.result{
+            case .success(let image):
+                completion(image, nil)
+            case .failure(let error):
+                completion(nil, error)
             }
         }
+        
     }
 }

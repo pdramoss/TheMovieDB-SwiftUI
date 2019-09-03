@@ -10,31 +10,30 @@ import SwiftUI
 
 struct MovieListSwiftUIView: View {
     
-    private var networkManager: NetworkManager = NetworkManager()
     @State private var movies: [PreviewMovie] = popularInformation.results
     
     var body: some View {
         self.getList()
-        
-        return NavigationView  {
-            list
-        }
+        return list
     }
     
     var list: some View {
-        List {
-            ForEach(movies) { movie  in
-                Text(movie.title)
+        NavigationView {
+            List (movies) { movie in
+                NavigationLink(destination: MovieDetailSwiftUIView()) {
+                    MovieRowSwiftUIView(previewMovie: movie)
+                }
             }
+            .padding()
+            .navigationBarTitle("THE MOVIE DB")
         }
     }
     
     func getList() {
-        networkManager.getPopularMovies(page: 2) { (result) in
+        NetworkManager().getPopularMovies(page: 2) { (result) in
             switch result {
             case .success(let movieList):
                 self.movies = movieList.results
-                print(movieList)
             case .failure(let error):
                 print(error)
             }

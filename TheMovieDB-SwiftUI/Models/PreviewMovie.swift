@@ -17,7 +17,6 @@ struct PreviewMovie: Hashable, Codable, Identifiable {
     var adult: Bool
     var overview: String
     var release_date: String
-    var genre_ids: [Int]
     var original_title: String
     var original_language: String
     var title: String

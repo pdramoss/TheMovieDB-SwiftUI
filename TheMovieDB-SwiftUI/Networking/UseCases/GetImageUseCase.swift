@@ -16,7 +16,7 @@ enum GetImageResult {
 typealias GetImageCompletion = (GetImageResult) -> Void
 
 extension NetworkManager {
-    func getImage(path: String, completion: @escaping (GetImageCompletion)) {
+    func getImage(path: String, with completion: @escaping (GetImageCompletion)) {
         router.requestImage(.getPathImage(path: path)) { (image, error) in
             if let _ = error {
                 completion(.failure(NetworkResponse.noData.rawValue))
