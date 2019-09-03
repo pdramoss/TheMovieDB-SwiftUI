@@ -16,7 +16,7 @@ enum GetPopularMoviesResult {
 typealias GetPopularCompletion = (GetPopularMoviesResult) -> Void
 
 extension NetworkManager {
-    func getPopularMovies(page: Int, completion: @escaping (GetPopularCompletion)) {
+    func getPopularMovies(page: Int, with completion: @escaping (GetPopularCompletion)) {
         router.request(.getPopularMovies(page: page)) { (data, response, error) in
             if let _ = error {
                 completion(.failure(NetworkResponse.checkNetwork.rawValue))
